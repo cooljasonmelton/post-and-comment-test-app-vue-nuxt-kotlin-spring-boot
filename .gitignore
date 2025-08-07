@@ -1,0 +1,20 @@
+# === GLOBAL ===
+.DS_Store
+*.log
+*.tmp
+*.swp
+.env
+node_modules/
+dist/
+coverage/
+.vscode/
+
+# === FRONTEND ===
+/frontend/node_modules
+
+# === BACKEND ===
+
+# === DOCKER / INFRA ===
+
+# === TESTS & CI ===
+
