@@ -1,15 +1,9 @@
-<script setup lang="ts">
-const version = 2 + 1;
-</script>
+<script setup lang="ts"></script>
 
 <template>
-  <div class="hello">Hello Nuxt {{ version }}!</div>
+  <div class="p-8">
+    <h1 class="text-3xl font-bold mb-4">INDEX</h1>
+  </div>
 </template>
 
-<style scoped>
-.hello {
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 3rem;
-  /* padding: 2rem; */
-}
-</style>
+<style scoped></style>
