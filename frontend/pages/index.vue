@@ -1,3 +1,7 @@
+<!-- 
+ TODO: display everyone's posts
+ -->
+
 <script setup lang="ts"></script>
 
 <template>

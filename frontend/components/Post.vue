@@ -1,6 +1,8 @@
 <!-- 
- TODO: display user's posts
- -->
+TODO: display user info, post's text
+TODO: display comments in hideable feed
+
+-->
 
 <script setup lang="ts"></script>
 
