@@ -54,7 +54,7 @@ export default {
   font-size: 1.25rem;
   color: white;
 }
-å .navlink:hover {
+.navlink:hover {
   color: #42b983;
   background-color: white;
 }
